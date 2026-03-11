@@ -4,6 +4,7 @@
 # New files in inputs / outputs directory
 inputs/
 outputs/
+outputs*/
 
 # Pickle files
 *.pkl
